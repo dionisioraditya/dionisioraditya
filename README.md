@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dionisioraditya&label=Profile%20views&color=0e75b6&style=flat" alt="dionisioraditya" /> </p>
 
-- 🌱 I’m currently learning **Kotlin Android native, python fundamental, and C++ Arduino**
+- 🌱 I’m currently learning **Kotlin Android native, Flutter, python, and C++ Arduino**
 
-- 💬 Ask me about **Android Native, MVVM pattern, Firebase, SQLite, API**
+- 💬 Ask me about **Android Native, Firebase, SQLite, API**
 
 - 📫 How to reach me **dionisioradityap@gmail.com**
 
