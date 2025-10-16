@@ -14,7 +14,7 @@
 ### 🧠 About Me
 - 💡 Passionate about building intelligent systems that combine **AI**, **robotics**, and **IoT**
 - 🧩 Enjoy solving real-world problems with data, algorithms, and embedded systems  
-- 💻 Currently exploring **ROS2**, **machine learning pipelines**, and **sensor fusion**
+- 💻 Currently exploring **ROS2**, **deep learning pipelines**, and **sensor fusion**
 - 📱 Occasionally dive into **Android app development** for IoT interfaces  
 
 ---
