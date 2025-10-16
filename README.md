@@ -1,21 +1,66 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Dionisio Raditya</h1>
-<h3 align="center">Microcontroller & Software dev enthusiast from Indonesia</h3>
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dionisioraditya&label=Profile%20views&color=0e75b6&style=flat" alt="dionisioraditya" /> </p>
+<h1 align="center">👋 Hi there, I'm Dionisio Raditya</h1>
 
-- 🌱 I’m currently learning **Kotlin Android native, Flutter, python, C, C++, Robot Kinematics and Arduino**
-
-- 💬 Ask me about **Android Native, Firebase, SQLite, API**
-
-- 📫 How to reach me **dionisioradityap@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dio-raditya-4a57661a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dio raditya" height="30" width="40" /></a>
-<a href="https://instagram.com/diordty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diordty" height="30" width="40" /></a>
-<a href="https://discord.gg/5192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5192" height="30" width="40" /></a>
+<p align="center">
+  🚀 <b>Tech Enthusiast | AI Engineering | Robotics | IoT | Android Apps Development</b> <br>
+  🤖 Currently working on <b>AI & Self-Driving Robot</b> projects <br>
+  🌱 Learning <b>ROS2</b> and autonomous system integration
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 About Me
+- 💡 Passionate about building intelligent systems that combine **AI**, **robotics**, and **IoT**
+- 🧩 Enjoy solving real-world problems with data, algorithms, and embedded systems  
+- 💻 Currently exploring **ROS2**, **machine learning pipelines**, and **sensor fusion**
+- 📱 Occasionally dive into **Android app development** for IoT interfaces  
+
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,flutter,kotlin" />
+</p>
+
+#### ⚙️ Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ros,androidstudio,tensorflow,pytorch,opencv,arduino,git,linux,vscode" />
+</p>
+
+---
+
+### 🔬 Current Focus
+- 🤖 Building **Autonomous Robot Navigation** using **ROS2**
+- 🧠 Experimenting with **AI-driven decision systems**
+- 📡 Integrating sensor networks for **robotic perception**
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DionisioRaditya&show_icons=true&theme=radical" alt="Dionisio's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionisioRaditya&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/dionisio-raditya-prasmada-4a57661a4" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="https://www.instagram.com/diordty/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Exploring the frontier where Artificial Intelligence meets Robotics.”</i> <br><br>
+  <img src="https://github.com/DionisioRaditya/DionisioRaditya/blob/main/assets/robot-animation.gif" width="200"/>
+</p>
