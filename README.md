@@ -40,9 +40,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DionisioRaditya&show_icons=true&theme=radical" alt="Dionisio's GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionisioRaditya&layout=compact&theme=radical" height="160" />
 </p>
 
@@ -60,7 +59,3 @@
 
 ---
 
-<p align="center">
-  <i>“Exploring the frontier where Artificial Intelligence meets Robotics.”</i> <br><br>
-  <img src="https://github.com/DionisioRaditya/DionisioRaditya/blob/main/assets/robot-animation.gif" width="200"/>
-</p>
