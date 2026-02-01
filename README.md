@@ -5,7 +5,7 @@
 
 <p align="center">
   🚀 <b>Tech Enthusiast | AI Engineering | Robotics | IoT | Android Apps Development</b> <br>
-  🤖 Currently working on <b>AI & Self-Driving Robot</b> projects <br>
+  🤖 Currently working on <b href="https://github.com/dionisioraditya/agv_ws">AI & Self-Driving Robot</b> projects <br>
   🌱 Learning <b>ROS2</b> and autonomous system integration
 </p>
 
