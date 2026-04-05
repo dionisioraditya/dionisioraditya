@@ -23,12 +23,12 @@
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,flutter,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,flutter,kotlin,php" />
 </p>
 
 #### ⚙️ Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ros,androidstudio,tensorflow,pytorch,opencv,arduino,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=ros,androidstudio,tensorflow,pytorch,opencv,arduino,git,linux,vscode,laravel" />
 </p>
 
 ---
